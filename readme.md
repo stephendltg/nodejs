@@ -46,6 +46,7 @@ node-app
 - [Apprendre nodejs](https://github.com/stephendltg/nodebook)
 - [Reference javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference)
 - [ECMA-262](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+- [Nodejs best practices](https://github.com/goldbergyoni/nodebestpractices)
 - [NPM documentation](https://docs.npmjs.com/cli/v8/commands)
 - [Package.json documentation](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
 - [Apprendre Git](https://www.atlassian.com/fr/git/tutorials/setting-up-a-repository)
