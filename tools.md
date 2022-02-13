@@ -4,6 +4,7 @@
 
 - https://jestjs.io/docs/api#describename-fn
 - https://jestjs.io/docs/expect
+- https://github.com/sapegin/jest-cheat-sheet
 
 # MOCHA - CHAI
 
