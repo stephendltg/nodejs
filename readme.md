@@ -66,3 +66,12 @@ node-app
 - [Markdown all in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [mermaid preview](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
 - [Edit csv](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv)
+
+### Package maintenance
+
+A modern cli tool that keeps your deps fresh
+
+```bash
+npx taze
+```
+
