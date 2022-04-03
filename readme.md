@@ -49,6 +49,7 @@ node-app
 - [summary of the new ES version by example](https://github.com/gautemo/ES-Intro)
 - [Nodejs best practices](https://github.com/goldbergyoni/nodebestpractices)
 - [Nodejs testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+- [Nodejs CLI](https://github.com/lirantal/nodejs-cli-apps-best-practices)
 - [Structure nodejs project](https://github.com/elsewhencode/project-guidelines)
 - [NPM documentation](https://docs.npmjs.com/cli/v8/commands)
 - [Package.json documentation](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
